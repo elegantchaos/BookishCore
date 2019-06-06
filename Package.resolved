@@ -2,15 +2,6 @@
   "object": {
     "pins": [
       {
-        "package": "Actions",
-        "repositoryURL": "https://github.com/elegantchaos/Actions",
-        "state": {
-          "branch": "bookish",
-          "revision": "0badb5ad7d0acd408f5b5d6e55e19b1407a477a6",
-          "version": null
-        }
-      },
-      {
         "package": "CommandShell",
         "repositoryURL": "https://github.com/elegantchaos/CommandShell",
         "state": {
