@@ -17,9 +17,9 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/elegantchaos/Logger", .branch("bookish")),
-        .package(url: "https://github.com/elegantchaos/Actions", .branch("bookish")),
-        .package(url: "https://github.com/elegantchaos/Expressions", .branch("bookish")),
+        .package(url: "https://github.com/elegantchaos/Logger", from: "1.3.5"),
+        .package(url: "https://github.com/elegantchaos/Actions", from: "1.3.1"),
+        .package(url: "https://github.com/elegantchaos/Expressions", from: "1.0.0"),
         .package(url: "https://github.com/elegantchaos/JSONDump", from: "1.0.4"),
         .package(url: "https://github.com/elegantchaos/Coverage", from: "1.0.4"),
         .package(url: "https://github.com/elegantchaos/CommandShell", from: "1.0.3"),
